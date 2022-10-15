@@ -1,0 +1,23 @@
+'index', 'country', 'description', 'designation', 'points', 'price',
+       'province', 'region_1', 'region_2', 'variety', 'winery'
+
+나라별 포인트
+나라별 가격
+나라별 종생산량
+나라별 효율성
+나라별 베스트 와인너리
+
+나라주별 포인트
+나라주별 가격
+나라주별 효율성
+나라주별 품종수
+
+품종별 가격
+품종별 점수
+
+와인너리별 점수
+와인너리별 가격
+와이너리가 좋아하는 품종
+
+
+
